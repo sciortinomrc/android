@@ -1,4 +1,5 @@
 OwnTracks for Android
+[![security status](https://qa.meterian.com/badge/pb/4233b9c8-fdb5-4611-94cc-d7c138640437/security)](https://qa.meterian.com/projects/?pid=4233b9c8-fdb5-4611-94cc-d7c138640437) [![stability status](https://qa.meterian.com/badge/pb/4233b9c8-fdb5-4611-94cc-d7c138640437/stability)](https://qa.meterian.com/projects/?pid=4233b9c8-fdb5-4611-94cc-d7c138640437) [![licensing status](https://qa.meterian.com/badge/pb/4233b9c8-fdb5-4611-94cc-d7c138640437/licensing)](https://qa.meterian.com/projects/?pid=4233b9c8-fdb5-4611-94cc-d7c138640437)
 =======
 
 This is the OwnTracks Android app. See our [booklet](http://owntracks.org/booklet/features/android/) for details on how to get started with OwnTracks, as well some details about behaviour specific to the Android app.
